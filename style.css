@@ -1,0 +1,17 @@
+/*!
+Theme Name: IkonicTheme
+Author: Abdul Basit
+Description: This theme is developed for blogs and Projects with advance functionality
+*/
+
+nav#header {
+    background-color: #efefef;
+}
+ul#menu-main_menu_primary {
+    width: 100%;
+    justify-content: end;
+}
+
+.footer-column li {
+    list-style: none !important;
+}
